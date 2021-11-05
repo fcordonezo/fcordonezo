@@ -9,13 +9,11 @@ public class Fcordonezo{
 
 ## About me
 
-- 🔭 I’m currently working on a self proyect: e-commerce [elisshop](https://www.elisshop.com.co/)
+- 🔭 I’m currently working at Devsu LLC as a software developer, using Bootstrap + Angular
 
-- 🌱 I’m currently learning **Angular, Android development, UX/UI, Agile methodologies**
+- 🌱 I’m currently learning **UX/UI, Agile methodologies (SCRUM), Microservices, Clean Code, TDD**
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/fcordonezo?tab=repositories)
-
-- 💬 Ask me about: **I'm good with Java...**
 
 - 📫 How to reach me: mail me at ***fcordonezo@unal.edu.co***
 
