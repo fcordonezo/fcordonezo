@@ -9,7 +9,7 @@ public class Fcordonezo{
 
 ## About me
 
-- 🔭 I’m currently working at Devsu LLC as a software developer, using Bootstrap + Angular
+- 🔭 I’m currently working at Devsu LLC as a software developer
 
 - 🌱 I’m currently learning **UX/UI, Agile methodologies (SCRUM), Microservices, Clean Code, TDD**
 
