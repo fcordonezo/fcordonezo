@@ -1,7 +1,7 @@
 
 ```java
 public class Fcordonezo{
-  public static final String about = 
+  public static final String ABOUT = 
 
 ```
 
